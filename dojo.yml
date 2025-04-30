@@ -1,9 +1,5 @@
 id: example
-name: Example Dojo
-type: example
-award:
-  emoji: 😀
-image: pwncollege/challenge-simple
+name: HCTF Dojo
 modules:
   - id: hello
   - id: demo
