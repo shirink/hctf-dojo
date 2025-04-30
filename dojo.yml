@@ -1,5 +1,9 @@
 id: example
 name: HCTF Dojo
+type: Placeholder
 modules:
+  - import:
+      dojo: intro-to-cybersecurity
+      module: web-security
   - id: hello
   - id: demo
