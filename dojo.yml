@@ -4,6 +4,9 @@ type: example
 modules:
   - id: hello
   - id: demo
+  - id: hctf-web-security
+    name: Web Security
+    description: importing two challenge from intro-to-cybersecurity-dojo/web-security
 challenges:
     - import:
         dojo: intro-to-cybersecurity
