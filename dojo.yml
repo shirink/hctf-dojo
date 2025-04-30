@@ -2,8 +2,14 @@ id: example
 name: HCTF Dojo
 type: example
 modules:
-  - import:
-      dojo: intro-to-cybersecurity
-      module: web-security
   - id: hello
   - id: demo
+challenges:
+    - import:
+        dojo: intro-to-cybersecurity
+        module: web-security
+        challenge: auth-bypass-param
+    - import:
+        dojo: intro-to-cybersecurity
+        module: web-security
+        challenge: auth-bypass-cookie
