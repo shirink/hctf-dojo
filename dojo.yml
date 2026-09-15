@@ -13,3 +13,11 @@ modules:
             dojo: intro-to-cybersecurity
             module: intercepting-communication
             challenge: firewall-1
+        - import:
+            dojo: intro-to-cybersecurity
+            module: intercepting-communication
+            challenge: firewall-2
+        - import:
+            dojo: intro-to-cybersecurity
+            module: intercepting-communication
+            challenge: firewall-3
