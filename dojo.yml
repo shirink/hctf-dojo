@@ -6,18 +6,14 @@ modules:
   - id: demo
   - id: CSE-Module-3
     name: Information Flow
-    description: importing two challenge from intro-to-cybersecurity-dojo/intercepting-communication
+    description: importing two challenge from intro-to-cybersecurity-dojo/web-security
 
-    challenges:
+    -challenges:
         - import:
             dojo: intro-to-cybersecurity
-            module: intercepting-communication
-            challenge: firewall-1
+            module: web-security
+            challenge: auth-bypass-param
         - import:
             dojo: intro-to-cybersecurity
-            module: intercepting-communication
-            challenge: firewall-2
-        - import:
-            dojo: intro-to-cybersecurity
-            module: intercepting-communication
-            challenge: firewall-3
+            module: web-security
+            challenge: auth-bypass-cookie
