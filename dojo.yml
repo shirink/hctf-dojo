@@ -4,7 +4,7 @@ type: example
 modules:
   - id: hello
   - id: demo
-  - id: CSE-Module-3
+  - id: cse-module-3
     name: Information Flow
     description: importing two challenge from intro-to-cybersecurity-dojo/intercepting-communication
 
