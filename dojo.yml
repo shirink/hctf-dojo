@@ -6,7 +6,9 @@ modules:
   - id: demo
   - id: cse-module-3
     name: Information Flow
-    description: importing two challenge from intro-to-cybersecurity-dojo/intercepting-communication
+    description: |
+        In these serries of challenges we are going to control the traffic that your computer makes. 
+        > Credit for intro-to-cybersecurity-dojo/intercepting-communication
 
     challenges:
         - import:
