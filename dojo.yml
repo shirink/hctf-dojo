@@ -2,8 +2,6 @@ id: howest-cse
 name: Howest Cybersecurity Essentials
 type: topic
 modules:
-  - id: non-import-firewall
-  - id: demo
   - id: cse-module-3
     name: Information Flow
     description: |
