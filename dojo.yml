@@ -21,7 +21,7 @@ modules:
             dojo: intro-to-cybersecurity
             module: intercepting-communication
             challenge: firewall-3
-resources:
+    resources:
     - name: "Getting Started Notes"
       type: markdown
       content: |
