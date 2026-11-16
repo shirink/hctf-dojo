@@ -1,14 +1,14 @@
-id: example
-name: HCTF Dojo
-type: example
+id: howest-cse
+name: Howest Cybersecurity Essentials
+type: topic
 modules:
-  - id: hello
+  - id: non-import-firewall
   - id: demo
   - id: cse-module-3
     name: Information Flow
     description: |
         In these serries of challenges we are going to control the traffic that your computer makes. 
-        > Credit for intro-to-cybersecurity-dojo/intercepting-communication
+        > Credit: firewal callenges are imported from [intro-to-cybersecurity-dojo/intercepting-communication](https://pwn.college/intro-to-cybersecurity/intercepting-communication)
 
     challenges:
         - import:
